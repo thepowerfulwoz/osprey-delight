@@ -1,4 +1,4 @@
-module github.com/kdevo/osprey-delight/v5
+module github.com//thepowerfulwoz/osprey-delight
 
 go 1.13
 
